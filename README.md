@@ -7,4 +7,5 @@ To run the application in local follow the below steps:
 
 2. Do npm install
 
-3. Run npm run dev
+3. Run npm run dev 
+then hit the url displayed to view the application (eg. http://localhost:5173/)
