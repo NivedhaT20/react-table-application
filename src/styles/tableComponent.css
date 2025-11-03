@@ -1,0 +1,13 @@
+table {
+  border: 1px solid #ccc;
+}
+
+td{
+   border: 1px solid #ccc;  
+   border-color: #ccc !important;
+   padding: 5px 10px;
+}
+
+input{
+    border: none;
+}
